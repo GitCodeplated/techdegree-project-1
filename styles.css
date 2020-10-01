@@ -7,9 +7,9 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: #2F3542;
 }
 /* Link Styles */
 
@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: black;
+  background: #2F3542;
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/hero_background_image_1.jpg') no-repeat center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -77,7 +77,7 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: #efefef;
+  background-color: #FFF8F8;
   color: black;
   padding: 10px;
   border-radius: 5px;
@@ -86,7 +86,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color: #FFC952;
 }
 .card {
   margin: 30px;
@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #FFC952;
 }
 
 ul.skills {
@@ -110,14 +110,14 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
+  background: #f0a607;
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: #2F3542;
 }
 
 footer {
@@ -165,6 +165,9 @@ a.social:hover {
 }
 .clearfix {
   clear: both;
+}
+.copyright {
+  color: #FFC952;
 }
 
 /* Styles for larger screens */
