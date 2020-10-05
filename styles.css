@@ -43,7 +43,7 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
+    color: #FFC952;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -86,7 +86,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: #FFC952;
+  color: #ffffff;
 }
 .card {
   margin: 30px;
@@ -97,6 +97,45 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
+}
+.card_2 {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 1200px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+.card_about_me {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 1000px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 10px;
+  transition: all .5s;
+}
+.img_about_me {
+  margin: auto;
+  width: 100%;
+  height: auto;
+  border: 1px solid #2F3542;
+  padding-top: 250px;
+  padding-bottom: 275px;
+  background: url('images/about_me_artwork@2x.jpg') no-repeat center;
+  background-size: cover;
+  overflow: hidden;
+  border-radius: 10px;
+}
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #2F3542;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  font-style: italic;
 }
 .card:hover {
   border-color: #FFC952;
