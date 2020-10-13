@@ -45,6 +45,18 @@ After downloading and unzipping, you should have the following files.
 
 This project is production ready and fully deployed 🚀 - [Here](https://techdegree-project-1.vercel.app/)
 
+## Code Sample
+
+```css
+.tag {
+  background-color: #FFF8F8;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 10px auto;
+  }
+```
 
 ## To Do List
 
