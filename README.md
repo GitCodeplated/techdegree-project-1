@@ -1,4 +1,4 @@
-# TeamTreehouse - FrontEnd Web Development Project 1
+# FrontEnd Web Development Project 1
 
 ![Website preview for project 1](./images/readme_poster.png)
 
@@ -22,7 +22,7 @@ I also practice using GitHub, an important tool used by millions of developers t
 
 ## Challange Instructions
 
-Sections of this Guide:
+**Sections of this Guide:**
 - How to approach this project includes detailed guidance to help you think about how
 to organize your code, project and files.
 - How to succeed at this project lists the grading requirements for the project, with hints,
@@ -34,19 +34,16 @@ links to course videos to refresh your memory and helpful resources.
 Techdegree curriculum.
 
 After downloading and unzipping, you should have the following files.
-● index.html
-● styles.css
-● And an image folder containing:
-○ me.png
-○ portland.jpg
-○ and three social media icon SVGs.
+- index.html
+- styles.css
+- And an image folder containing:
+- me.png
+- portland.jpg
+- and three social media icon SVGs.
 
 ## Deploying this project
 
 This project can be viewed - [here](https://techdegree-project-1.vercel.app/)
-
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **I had a lot of fun building!** 🚀
 
