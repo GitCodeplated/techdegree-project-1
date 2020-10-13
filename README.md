@@ -43,9 +43,8 @@ After downloading and unzipping, you should have the following files.
 
 ## Deploying this project
 
-This project is production ready and fully deployed here - [Here](https://techdegree-project-1.vercel.app/)
+This project is production ready and fully deployed 🚀 - [Here](https://techdegree-project-1.vercel.app/)
 
-**I had a lot of fun building!** 🚀
 
 
 
