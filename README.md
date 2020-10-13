@@ -46,5 +46,13 @@ After downloading and unzipping, you should have the following files.
 This project is production ready and fully deployed 🚀 - [Here](https://techdegree-project-1.vercel.app/)
 
 
+## To Do List
 
+- [x] Download/clone the project source files from the project.
+- [x] Create repo and initialize.
+- [x] Create **About** and **experience** pages and link to **index**.
+- [x] Upload all images.
+- [x] Edit css file by adding relevant classes.
+- [x] Use the Terminalad to add, commit and push all changes.
+- [ ] Revisit project, update version 2.
 
