@@ -6,7 +6,7 @@
 
 Thanks for checking out this front end web development Personal Profile Page project.
 
-[Project 1 - Project 1: Personal Profile ](https://techdegree-project-1.vercel.app/experience.html) challenges allow you to improve your skills in a real-life workflow.
+[Project 1 - Personal Profile ](https://techdegree-project-1.vercel.app/experience.html) challenges allow you to improve your skills in a real-life workflow.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and a tiny bit of JavaScript.**
 
